@@ -18,3 +18,5 @@ DerivedData
 .idea/
 *.hmap
 xcuserdata/*
+
+*xcworkspace/xcuserdata/*
